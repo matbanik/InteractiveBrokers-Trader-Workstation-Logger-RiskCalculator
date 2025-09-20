@@ -13,8 +13,6 @@ A desktop application built with Python and Tkinter that connects to the Interac
 -   **Configurable**: Settings for TWS connection, auto-refresh intervals, and auto-connect on startup can be modified through the UI.
 
 ![Screenshot](./TL.jpg)
-![Screenshot](./EXT.jpg)
-![Screenshot](./BAL.jpg)
 
 ## Dependencies and Setup
 
