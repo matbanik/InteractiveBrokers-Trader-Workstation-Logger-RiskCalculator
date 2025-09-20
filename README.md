@@ -12,7 +12,9 @@ A desktop application built with Python and Tkinter that connects to the Interac
 -   **Persistent Storage**: Saves trades, balance history, and application settings locally in JSON files.
 -   **Configurable**: Settings for TWS connection, auto-refresh intervals, and auto-connect on startup can be modified through the UI.
 
-!(TL.jpg)
+![Screenshot](./TL.jpg)
+![Screenshot](./EXT.jpg)
+![Screenshot](./BAL.jpg)
 
 ## Dependencies and Setup
 
@@ -47,7 +49,7 @@ The TWS API must be configured to accept connections. This application only requ
 5.  Ensure the **Socket port** number matches the port in the Trade Logger's settings (default is `7497`).
 6.  Click **Apply** and **OK**.
 
-!(IBTWS.jpg)
+![Screenshot](./IBTWS.jpg)
 
 ### Application Settings
 
@@ -58,7 +60,7 @@ Within the Trade Logger, click the "Settings" button to configure:
 -   Auto-refresh settings
 -   Auto-connect on startup
 
-!(SETTINGS.jpg)
+![Screenshot](./SETTINGS.jpg)
 
 ## Running the Application
 
