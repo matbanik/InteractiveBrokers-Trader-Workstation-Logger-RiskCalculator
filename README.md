@@ -26,13 +26,7 @@ pip install ibapi tradingview_ta
 
 ### 2. External Applications
 
--   **Interactive Brokers Trader Workstation (TWS)**: You must have a running instance of TWS or IB Gateway to which the application can connect. The logger does not depend on any other external executables. The `faster-whisper-xxl.exe` file mentioned is not a dependency for this application.
-
-If an application were to require an external executable from a source like GitHub, the process would be:
-1.  Navigate to the project's GitHub repository.
-2.  Go to the "Releases" section on the right-hand side.
-3.  Find the desired version and download the executable from the "Assets" list.
-4.  Place the executable in the same directory as the script or in a directory included in your system's PATH.
+-   **Interactive Brokers Trader Workstation (TWS)**: You must have a running instance of TWS or IB Gateway to which the application can connect. 
 
 ## Configuration
 
